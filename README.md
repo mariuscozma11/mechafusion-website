@@ -3,9 +3,6 @@
 
 Acesta este site-ul oficial al clubului de robotică **MechaFusion**, realizat folosind **Next.js**, **Tailwind CSS** și componente din **ShadCN UI** pentru un design modern, responsiv și accesibil.
 
-![Captură ecran MechaFusion](public/placeholder.svg)
-
----
 
 ## 🔧 Tehnologii folosite
 
