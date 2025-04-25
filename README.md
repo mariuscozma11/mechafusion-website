@@ -47,37 +47,7 @@ npm run dev
 
 Site-ul va fi disponibil la [http://localhost:3000](http://localhost:3000)
 
----
-
-## 📁 Structura proiectului
-
-```
-/public
-  └── placeholder.svg         → Logo-ul clubului și imagini demo
-/pages
-  └── index.tsx               → Pagina principală (LandingPage component)
-/components/ui                → Componente UI (Button, Accordion etc.)
-```
-
----
-
 ## 🛠 Contribuie la proiect
 
 Pull request-urile sunt binevenite! Pentru modificări majore, deschide mai întâi un issue pentru a discuta propunerea.
 
----
-
-## 📜 Licență
-
-Acest proiect este licențiat sub [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-Pentru mai multe informații, accesează [mechafusion.ro](https://mechafusion.ro) *(placeholder)*  
-sau trimite un email la: **contact@mechafusion.ro**
-
----
-
-Realizat cu ❤️ de echipa **MechaFusion**
